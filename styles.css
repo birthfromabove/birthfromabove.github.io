@@ -3,7 +3,7 @@ table {border-collapse:collapse}
 td {border:1px solid black}
 tac {display:block;text-align:center}
 tar {display:block;text-align:right}
-gdf {border:2px dashed #4CAF50;padding:5px;margin:10px}
+gdf {display:block;border:2px dashed #4CAF50;padding:5px;margin:10px}
 wspl,.wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 .hidden {display: none}
