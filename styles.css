@@ -2,7 +2,8 @@ body {font-family:sans-serif;text-size-adjust:none}
 table {border-collapse:collapse}
 td {border:1px solid black}
 tar {display:block;text-align:right}
-wspl {display:block;white-space:pre-line}
+gdf {}
+wspl,.wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 .hidden {display: none}
 .w100 {width:100%}
