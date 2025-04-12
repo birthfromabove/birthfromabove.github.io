@@ -11,13 +11,13 @@ wspl,.wspl {display:block;white-space:pre-line}
 .w100 {width:100%}
 @font-face {
 font-family:Noto Emoji;
-src:url('/directories/files/fonts/NotoEmoji.ttf');
+src:url('/NotoEmoji.ttf');
 }
 @font-face {
 font-family:Noto Sans Symbols;
-src:url('/directories/files/fonts/NotoEmoji.ttf');
+src:url('/NotoSansSymbols.ttf');
 }
 @font-face {
 font-family:Menlo;
-src:url('/directories/files/fonts/NotoEmoji.ttf');
+src:url('/Menlo.ttf');
 }
