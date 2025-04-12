@@ -9,11 +9,3 @@ wspl,.wspl {display:block;white-space:pre-line}
 .vat {vertical-align:top}
 .hidden {display: none}
 .w100 {width:100%}
-@font-face {
-font-family:Noto Emoji;
-src:url('/NotoEmoji.ttf');
-}
-@font-face {
-font-family:Noto Sans Symbols;
-src:url('/NotoSansSymbols.ttf');
-}
