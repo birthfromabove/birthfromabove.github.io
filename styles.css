@@ -17,7 +17,3 @@ src:url('/NotoEmoji.ttf');
 font-family:Noto Sans Symbols;
 src:url('/NotoSansSymbols.ttf');
 }
-@font-face {
-font-family:Menlo;
-src:url('/Menlo.ttf');
-}
