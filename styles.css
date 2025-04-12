@@ -1,4 +1,4 @@
-body {color:red;font-family:sans-serif;text-size-adjust:none}
+body {font-family:sans-serif;text-size-adjust:none}
 table {border-collapse:collapse}
 td {border:1px solid black}
 fieldset,legend {border:1px solid black;border-radius:3px}
@@ -7,7 +7,7 @@ tac {display:block;text-align:center}
 tar {display:block;text-align:right}
 wspl,.wspl {display:block;white-space:pre-line}
 
-table[class=bsh] td {border-style:hidden}
+[class=bsh] td {border-style:hidden}
 
 .vat {vertical-align:top}
 .w100 {width:100%}
